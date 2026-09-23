@@ -1,0 +1,6 @@
+{
+  "name": "Recette Facile Pâte à Crêpes",
+  "description": "Le guide ultime et la recette facile de pâte à crêpes inratable, rapide et sans grumeaux. Calculateur d'ingrédients, minuteur et lecture audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
